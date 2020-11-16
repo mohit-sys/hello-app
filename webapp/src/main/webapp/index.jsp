@@ -8,6 +8,6 @@
 	<body>
 		<h1>Hello world!</h1>
 		<h2>Current time is <%= LocalDateTime.now() %></h2>
-                <h3>Deploying on VM!!!</h2>      
+                <h3>Deploying on Container!!!</h2>      
 	</body>
 </html>
